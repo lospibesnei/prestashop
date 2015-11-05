@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2015-11-04 23:39:24
+<?php /* Smarty version Smarty-3.1.14, created on 2015-11-05 16:10:49
          compiled from "C:\wamp\www\prestashop\modules\blockadvfooter\blockadvfooter.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:3701563ac15c391050-39920264%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '4255e2c5c8157f26bb7702ee472dec88284160f9' => 
     array (
       0 => 'C:\\wamp\\www\\prestashop\\modules\\blockadvfooter\\blockadvfooter.tpl',
-      1 => 1446690992,
+      1 => 1446750577,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'cache_lifetime' => 31536000,
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_563ac15c7ccd52_86273733',
   'variables' => 
   array (
     'pos' => 0,
@@ -25,8 +28,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'item' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_563ac15c7ccd52_86273733',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_563ac15c7ccd52_86273733')) {function content_563ac15c7ccd52_86273733($_smarty_tpl) {?><div style="clear:both"></div>
 <div id="advand<?php echo $_smarty_tpl->tpl_vars['pos']->value;?>

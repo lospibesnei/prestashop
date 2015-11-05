@@ -5,17 +5,26 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '4255e2c5c8157f26bb7702ee472dec88284160f9' => 
     array (
       0 => 'C:\\wamp\\www\\prestashop\\modules\\blockadvfooter\\blockadvfooter.tpl',
-      1 => 1446690992,
+      1 => 1446750577,
       2 => 'file',
     ),
   ),
   'nocache_hash' => '3701563ac15c391050-39920264',
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_563ad3ea5811f6_45538474',
-  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_563ba9ba5a4d14_73174589',
+  'variables' => 
+  array (
+    'pos' => 0,
+    'lofpositions' => 0,
+    'key_pos' => 0,
+    'blocks' => 0,
+    'block' => 0,
+    'item' => 0,
+  ),
+  'has_nocache_code' => false,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_563ad3ea5811f6_45538474')) {function content_563ad3ea5811f6_45538474($_smarty_tpl) {?><div style="clear:both"></div>
+<?php if ($_valid && !is_callable('content_563ba9ba5a4d14_73174589')) {function content_563ba9ba5a4d14_73174589($_smarty_tpl) {?><div style="clear:both"></div>
 <div id="advandfooter" class="adv-footer-wrap">
 			<div id="lofadva-pos-1" class="blocks" style="width:100%">
 			<div class="blocks-wrap">
@@ -148,7 +157,25 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 	
 									
 <li >
-	<a href="http://localhost/prestashop/index.php?id_category=3&amp;controller=category&amp;id_lang=1" 		title="Es hora de que el mejor jugador de la m&uacute;sica, al escenario para hacer un bis. Con el nuevo iPod, el mundo es tu escenario.">iPods</a>
+	<a href="http://localhost/prestashop/index.php?id_category=3&amp;controller=category&amp;id_lang=1" class="selected"		title="Si tu equipo de amigos est&aacute; buscando un uniforme original y de calidad, no te pierdas las camisetas que tenemos en Excipio Sport. Una casaca de f&uacute;tbol confeccionada en microfibra de poli&eacute;ster, que te brinda un calce c&oacute;modo y una mayor durabilidad. Los modelos que te ofrecemos son mangas cortas, recortes diagonales a contratono y detalle en el cuello tambi&eacute;n en contraste. Se trata de un dise&ntilde;o personalizable, con el nombre y numero que vos quieras que te acompa&ntilde;ar&aacute; en cada partido.">Camisetas</a>
+			<ul>
+									
+<li >
+	<a href="http://localhost/prestashop/index.php?id_category=7&amp;controller=category&amp;id_lang=1" 		title="">Hombre</a>
+	</li>
+
+												
+<li class="last">
+	<a href="http://localhost/prestashop/index.php?id_category=8&amp;controller=category&amp;id_lang=1" 		title="">Mujer</a>
+	</li>
+
+							</ul>
+	</li>
+
+					
+													
+<li >
+	<a href="http://localhost/prestashop/index.php?id_category=6&amp;controller=category&amp;id_lang=1" 		title="Complet&aacute; el conjunto de tu equipo y destacate en cada partido, con los Shorts personalizables de Excipio Sport. Una prenda confeccionada en poli&eacute;ster con tecnolog&iacute;a  Riquelme   &nbsp;Fit  , que se encarga de mantenerte m&aacute;s fresco durante la actividad y ofrece mayor comodidad. Adem&aacute;s, posee paneles en  mesh  &nbsp;que aumentan la ventilaci&oacute;n. El modelo presenta cintura reversible con cord&oacute;n de ajuste para personalizar el calce. Un dise&ntilde;o exclusivo con el escudo del club bordado, el logo&nbsp;  Swoosh  &nbsp;y detalles a contratono.">Pantalones</a>
 	</li>
 
 					
@@ -191,7 +218,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 			</p>
 								<ul id="first-languages" class="dropdown-menu">
 														<li>
-																								<a href="http://localhost/prestashop/index.php?controller=order&amp;amp%3Bstep=1&amp;amp%3Bmulti-shipping=0&amp;id_lang=2" title="Español AR ( Spanish)">
+																								<a href="http://localhost/prestashop/index.php?id_product=1&amp;controller=product&amp;id_lang=2" title="Español AR ( Spanish)">
 
 																		<img src="http://localhost/prestashop/img/l/2.jpg" alt="ag" width="16" height="11" />&nbsp;<span>Español AR ( Spanish)</span>
 						</a>

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 README
 ======
 ![PrestaShop](http://www.prestashop.com/images/banners/general/prestashop_728x90.png "PrestaShop")
@@ -47,3 +48,8 @@ Thank you for downloading and using PrestaShop e-commerce Open-source solution!
 [3]: http://www.prestashop.com/forums/forum/7-installing-prestashop/
 [4]: http://doc.prestashop.com
 [5]: http://www.prestashop.com/forums/
+=======
+# prestashop
+proyecto
+gggnh
+>>>>>>> origin/master
