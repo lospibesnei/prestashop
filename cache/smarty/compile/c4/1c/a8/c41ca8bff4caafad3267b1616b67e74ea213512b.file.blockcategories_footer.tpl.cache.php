@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2015-11-05 16:10:48
+<?php /* Smarty version Smarty-3.1.14, created on 2015-11-06 12:54:32
          compiled from "C:\wamp\www\prestashop\themes\leoshoe\modules\blockcategories\blockcategories_footer.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:29535563ac15b91deb6-86055583%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'c41ca8bff4caafad3267b1616b67e74ea213512b' => 
     array (
       0 => 'C:\\wamp\\www\\prestashop\\themes\\leoshoe\\modules\\blockcategories\\blockcategories_footer.tpl',
-      1 => 1446750614,
+      1 => 1446822913,
       2 => 'file',
     ),
   ),

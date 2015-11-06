@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2015-11-05 16:10:46
+<?php /* Smarty version Smarty-3.1.14, created on 2015-11-06 12:54:32
          compiled from "C:\wamp\www\prestashop\themes\leoshoe\modules\blocknewsletter\blocknewsletter.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:24574563ac15ad83730-12108739%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '8c43f92f64c2dd7851e4b83715d39870f92091b8' => 
     array (
       0 => 'C:\\wamp\\www\\prestashop\\themes\\leoshoe\\modules\\blocknewsletter\\blocknewsletter.tpl',
-      1 => 1446750615,
+      1 => 1446822914,
       2 => 'file',
     ),
   ),

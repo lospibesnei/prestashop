@@ -5,17 +5,27 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '209fca462938e6085fe5e8da6aaa0a3c6cfff725' => 
     array (
       0 => 'C:\\wamp\\www\\prestashop\\themes\\leoshoe\\modules\\blocksupplier\\blocksupplier.tpl',
-      1 => 1446690708,
+      1 => 1446822914,
       2 => 'file',
     ),
   ),
   'nocache_hash' => '20865563ac15568d214-92193691',
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_563b76807e5eb9_16953179',
-  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_563ccd313ed899_44830958',
+  'variables' => 
+  array (
+    'display_link_supplier' => 0,
+    'link' => 0,
+    'suppliers' => 0,
+    'text_list' => 0,
+    'text_list_nb' => 0,
+    'supplier' => 0,
+    'form_list' => 0,
+  ),
+  'has_nocache_code' => false,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_563b76807e5eb9_16953179')) {function content_563b76807e5eb9_16953179($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_563ccd313ed899_44830958')) {function content_563ccd313ed899_44830958($_smarty_tpl) {?>
 <!-- Block suppliers module -->
 <div id="suppliers_block_left" class="block blocksupplier">
 	<p class="title_block"><a href="http://localhost/prestashop/index.php?controller=supplier" title="Proveedores">Proveedores</a></p>

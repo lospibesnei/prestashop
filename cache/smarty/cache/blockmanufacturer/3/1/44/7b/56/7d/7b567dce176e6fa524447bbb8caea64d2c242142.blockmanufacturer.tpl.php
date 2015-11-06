@@ -5,17 +5,27 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '7b567dce176e6fa524447bbb8caea64d2c242142' => 
     array (
       0 => 'C:\\wamp\\www\\prestashop\\themes\\leoshoe\\modules\\blockmanufacturer\\blockmanufacturer.tpl',
-      1 => 1446690708,
+      1 => 1446822914,
       2 => 'file',
     ),
   ),
   'nocache_hash' => '14696563ac1550cd464-16911471',
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_563b768009c9b6_46594201',
-  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_563ccd3096ac50_25284510',
+  'variables' => 
+  array (
+    'display_link_manufacturer' => 0,
+    'link' => 0,
+    'manufacturers' => 0,
+    'text_list' => 0,
+    'text_list_nb' => 0,
+    'manufacturer' => 0,
+    'form_list' => 0,
+  ),
+  'has_nocache_code' => false,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_563b768009c9b6_46594201')) {function content_563b768009c9b6_46594201($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_563ccd3096ac50_25284510')) {function content_563ccd3096ac50_25284510($_smarty_tpl) {?>
 <!-- Block manufacturers module -->
 <div id="manufacturers_block_left" class="block blockmanufacturer">
 	<p class="title_block"><a href="http://localhost/prestashop/index.php?controller=manufacturer" title="Marcas">Marcas</a></p>

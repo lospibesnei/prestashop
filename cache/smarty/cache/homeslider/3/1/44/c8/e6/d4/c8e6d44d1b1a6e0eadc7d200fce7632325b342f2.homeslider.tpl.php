@@ -5,17 +5,25 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'c8e6d44d1b1a6e0eadc7d200fce7632325b342f2' => 
     array (
       0 => 'C:\\wamp\\www\\prestashop\\themes\\leoshoe\\modules\\homeslider\\homeslider.tpl',
-      1 => 1446690709,
+      1 => 1446822914,
       2 => 'file',
     ),
   ),
   'nocache_hash' => '1044563ac156c1f0d3-13914997',
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_563ad746725ff6_35023675',
-  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_563ccd33ed3193_77152937',
+  'variables' => 
+  array (
+    'homeslider' => 0,
+    'homeslider_slides' => 0,
+    'slide' => 0,
+    'module_dir' => 0,
+    'link' => 0,
+  ),
+  'has_nocache_code' => false,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_563ad746725ff6_35023675')) {function content_563ad746725ff6_35023675($_smarty_tpl) {?><div class="box slideshow">
+<?php if ($_valid && !is_callable('content_563ccd33ed3193_77152937')) {function content_563ccd33ed3193_77152937($_smarty_tpl) {?><div class="box slideshow">
 	
 <!-- Module HomeSlider -->
 <script type="text/javascript">

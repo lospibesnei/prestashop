@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2015-11-04 23:39:22
+<?php /* Smarty version Smarty-3.1.14, created on 2015-11-06 12:54:31
          compiled from "C:\wamp\www\prestashop\modules\leomanufacturerscroll\leomanufacturerscroll.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:12217563ac15a4f18e7-10761042%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '016c84eda45d053be3ed53d5622f8b2347534463' => 
     array (
       0 => 'C:\\wamp\\www\\prestashop\\modules\\leomanufacturerscroll\\leomanufacturerscroll.tpl',
-      1 => 1446690991,
+      1 => 1446822900,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'cache_lifetime' => 31536000,
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_563ac15aa98f76_69254606',
   'variables' => 
   array (
     'show_title' => 0,
@@ -24,8 +27,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'leoManufactureConfig' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_563ac15aa98f76_69254606',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_563ac15aa98f76_69254606')) {function content_563ac15aa98f76_69254606($_smarty_tpl) {?><div id="mycarouselHolder" align="center" class="box">
 	<div>

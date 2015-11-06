@@ -5,17 +5,34 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '8a32ce4860bb60828ebc735e698f06dc4da633d6' => 
     array (
       0 => 'C:\\wamp\\www\\prestashop\\themes\\leoshoe\\modules\\homefeatured\\homefeatured.tpl',
-      1 => 1446690709,
+      1 => 1446822914,
       2 => 'file',
     ),
   ),
   'nocache_hash' => '19840563ac158a345d7-44361031',
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_563b9bbb374357_90207446',
-  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_563ccd3704cb87_19705264',
+  'variables' => 
+  array (
+    'products' => 0,
+    'nbLi' => 0,
+    'nbItemsPerLine' => 0,
+    'nbLines' => 0,
+    'liHeight' => 0,
+    'totModulo' => 0,
+    'product' => 0,
+    'link' => 0,
+    'homeSize' => 0,
+    'restricted_country_mode' => 0,
+    'PS_CATALOG_MODE' => 0,
+    'priceDisplay' => 0,
+    'add_prod_display' => 0,
+    'static_token' => 0,
+  ),
+  'has_nocache_code' => false,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_563b9bbb374357_90207446')) {function content_563b9bbb374357_90207446($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_563ccd3704cb87_19705264')) {function content_563ccd3704cb87_19705264($_smarty_tpl) {?>
 <!-- MODULE Home Featured Products -->
 <div id="featured-products_block_center" class="block products_block clearfix">
 	<p class="title_block">Productos destacados</p>

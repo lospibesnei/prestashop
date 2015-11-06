@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2015-11-04 23:39:19
+<?php /* Smarty version Smarty-3.1.14, created on 2015-11-06 12:54:28
          compiled from "C:\wamp\www\prestashop\modules\blockleocustomhtml\tmpl\default.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:1213563ac157238dc2-65868604%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '97b17c26ee07cca3c8f0b8049290161cd0ec89cb' => 
     array (
       0 => 'C:\\wamp\\www\\prestashop\\modules\\blockleocustomhtml\\tmpl\\default.tpl',
-      1 => 1446690985,
+      1 => 1446822889,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_563ac1572a35d8_54601335',
   'variables' => 
   array (
     'class_prefix' => 0,
@@ -24,8 +26,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'content' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_563ac1572a35d8_54601335',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_563ac1572a35d8_54601335')) {function content_563ac1572a35d8_54601335($_smarty_tpl) {?><div class="customhtml block <?php echo $_smarty_tpl->tpl_vars['class_prefix']->value;?>
 " id="leo-customhtml-<?php echo $_smarty_tpl->tpl_vars['pos']->value;?>

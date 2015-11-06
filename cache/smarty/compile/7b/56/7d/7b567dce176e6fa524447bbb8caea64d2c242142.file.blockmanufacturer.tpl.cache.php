@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2015-11-04 23:39:17
+<?php /* Smarty version Smarty-3.1.14, created on 2015-11-06 12:54:24
          compiled from "C:\wamp\www\prestashop\themes\leoshoe\modules\blockmanufacturer\blockmanufacturer.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:14696563ac1550cd464-16911471%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '7b567dce176e6fa524447bbb8caea64d2c242142' => 
     array (
       0 => 'C:\\wamp\\www\\prestashop\\themes\\leoshoe\\modules\\blockmanufacturer\\blockmanufacturer.tpl',
-      1 => 1446690708,
+      1 => 1446822914,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'cache_lifetime' => 31536000,
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_563ac15539ac81_60546828',
   'variables' => 
   array (
     'display_link_manufacturer' => 0,
@@ -26,8 +29,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'form_list' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_563ac15539ac81_60546828',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_563ac15539ac81_60546828')) {function content_563ac15539ac81_60546828($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_escape')) include 'C:\\wamp\\www\\prestashop\\tools\\smarty\\plugins\\modifier.escape.php';
 ?>

@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2015-11-05 16:10:49
+<?php /* Smarty version Smarty-3.1.14, created on 2015-11-06 12:54:33
          compiled from "C:\wamp\www\prestashop\modules\blockadvfooter\blockadvfooter.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:3701563ac15c391050-39920264%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '4255e2c5c8157f26bb7702ee472dec88284160f9' => 
     array (
       0 => 'C:\\wamp\\www\\prestashop\\modules\\blockadvfooter\\blockadvfooter.tpl',
-      1 => 1446750577,
+      1 => 1446822886,
       2 => 'file',
     ),
   ),

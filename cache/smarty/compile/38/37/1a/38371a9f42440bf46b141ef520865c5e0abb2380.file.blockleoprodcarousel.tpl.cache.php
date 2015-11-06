@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2015-11-04 23:39:19
+<?php /* Smarty version Smarty-3.1.14, created on 2015-11-06 12:54:28
          compiled from "C:\wamp\www\prestashop\themes\leoshoe\modules\blockleoprodcarousel\blockleoprodcarousel.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:19122563ac1578fb851-64818292%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '38371a9f42440bf46b141ef520865c5e0abb2380' => 
     array (
       0 => 'C:\\wamp\\www\\prestashop\\themes\\leoshoe\\modules\\blockleoprodcarousel\\blockleoprodcarousel.tpl',
-      1 => 1446690708,
+      1 => 1446822914,
       2 => 'file',
     ),
   ),
@@ -15,14 +15,14 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_563ac157966f17_25694427',
   'variables' => 
   array (
     'products' => 0,
     'product_tpl' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_563ac157966f17_25694427',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_563ac157966f17_25694427')) {function content_563ac157966f17_25694427($_smarty_tpl) {?>
 

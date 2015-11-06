@@ -5,17 +5,25 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '016c84eda45d053be3ed53d5622f8b2347534463' => 
     array (
       0 => 'C:\\wamp\\www\\prestashop\\modules\\leomanufacturerscroll\\leomanufacturerscroll.tpl',
-      1 => 1446690991,
+      1 => 1446822900,
       2 => 'file',
     ),
   ),
   'nocache_hash' => '12217563ac15a4f18e7-10761042',
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_563b768156fb17_67893361',
-  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_563ccd3764a402_63210313',
+  'variables' => 
+  array (
+    'show_title' => 0,
+    'module_title' => 0,
+    'leomanufacturers' => 0,
+    'manufacturer' => 0,
+    'leoManufactureConfig' => 0,
+  ),
+  'has_nocache_code' => false,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_563b768156fb17_67893361')) {function content_563b768156fb17_67893361($_smarty_tpl) {?><div id="mycarouselHolder" align="center" class="box">
+<?php if ($_valid && !is_callable('content_563ccd3764a402_63210313')) {function content_563ccd3764a402_63210313($_smarty_tpl) {?><div id="mycarouselHolder" align="center" class="box">
 	<div>
 				
 		<div class="jcarousel-wrap">		

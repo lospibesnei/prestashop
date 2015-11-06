@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2015-11-04 23:39:15
+<?php /* Smarty version Smarty-3.1.14, created on 2015-11-06 12:54:21
          compiled from "C:\wamp\www\prestashop\modules\blocksearch\blocksearch-top.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:4207563ac153a82895-09192342%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'df4f71cfd4c1ff5dfd5d20601d356321bdf408e6' => 
     array (
       0 => 'C:\\wamp\\www\\prestashop\\modules\\blocksearch\\blocksearch-top.tpl',
-      1 => 1381159710,
+      1 => 1446822891,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'cache_lifetime' => 31536000,
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_563ac153c104f1_96197900',
   'variables' => 
   array (
     'hook_mobile' => 0,
@@ -22,8 +25,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'ENT_QUOTES' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_563ac153c104f1_96197900',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_563ac153c104f1_96197900')) {function content_563ac153c104f1_96197900($_smarty_tpl) {?>
 <!-- block seach mobile -->
