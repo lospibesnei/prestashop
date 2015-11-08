@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2015-11-06 12:54:22
+<?php /* Smarty version Smarty-3.1.14, created on 2015-11-08 16:24:29
          compiled from "C:\wamp\www\prestashop\themes\leoshoe\modules\blockcategories\blockcategories.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:19034563ac1548a86c0-59568340%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (

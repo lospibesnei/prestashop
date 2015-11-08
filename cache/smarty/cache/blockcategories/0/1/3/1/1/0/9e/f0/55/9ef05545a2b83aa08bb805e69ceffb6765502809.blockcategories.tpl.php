@@ -5,23 +5,29 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '9ef05545a2b83aa08bb805e69ceffb6765502809' => 
     array (
       0 => 'C:\\wamp\\www\\prestashop\\themes\\leoshoe\\modules\\blockcategories\\blockcategories.tpl',
-      1 => 1446690708,
+      1 => 1446822913,
       2 => 'file',
     ),
     '787dc29eb57b697dc38260afff2be2cb3cde7a4a' => 
     array (
       0 => 'C:\\wamp\\www\\prestashop\\themes\\leoshoe\\modules\\blockcategories\\category-tree-branch.tpl',
-      1 => 1446690708,
+      1 => 1446822913,
       2 => 'file',
     ),
   ),
   'nocache_hash' => '19034563ac1548a86c0-59568340',
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_563b76a39aca86_59467254',
-  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_563fa16eb9c4c3_96645041',
+  'variables' => 
+  array (
+    'isDhtml' => 0,
+    'blockCategTree' => 0,
+    'child' => 0,
+  ),
+  'has_nocache_code' => false,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_563b76a39aca86_59467254')) {function content_563b76a39aca86_59467254($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_563fa16eb9c4c3_96645041')) {function content_563fa16eb9c4c3_96645041($_smarty_tpl) {?>
 <!-- Block categories module -->
 <div id="categories_block_left" class="block">
 	<p class="title_block">Categorías</p>
