@@ -12,38 +12,18 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'nocache_hash' => '12217563ac15a4f18e7-10761042',
   'cache_lifetime' => 31536000,
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_563ccd3764a402_63210313',
-  'variables' => 
-  array (
-    'show_title' => 0,
-    'module_title' => 0,
-    'leomanufacturers' => 0,
-    'manufacturer' => 0,
-    'leoManufactureConfig' => 0,
-  ),
+  'unifunc' => 'content_563fcd6359cb92_77089338',
   'has_nocache_code' => false,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_563ccd3764a402_63210313')) {function content_563ccd3764a402_63210313($_smarty_tpl) {?><div id="mycarouselHolder" align="center" class="box">
+<?php if ($_valid && !is_callable('content_563fcd6359cb92_77089338')) {function content_563fcd6359cb92_77089338($_smarty_tpl) {?><div id="mycarouselHolder" align="center" class="box">
 	<div>
 				
 		<div class="jcarousel-wrap">		
 			<div id="wrap">
 			  <ul id="lofjcarousel" class="jcarousel-skin-tango">
 									<li class="lof-item">
-						<a href="http://localhost/prestashop/index.php?id_manufacturer=1&controller=manufacturer&id_lang=1">
-							<img src="/prestashop/img/m/es-default-manu_default.jpg" alt="Apple Computer, Inc" vspace="0" border="0" />
-							
-						</a>
-					</li>
-									<li class="lof-item">
 						<a href="http://localhost/prestashop/index.php?id_manufacturer=3&controller=manufacturer&id_lang=1">
 							<img src="/prestashop/img/m/3-manu_default.jpg" alt="Excipio Sport" vspace="0" border="0" />
-							
-						</a>
-					</li>
-									<li class="lof-item">
-						<a href="http://localhost/prestashop/index.php?id_manufacturer=2&controller=manufacturer&id_lang=1">
-							<img src="/prestashop/img/m/es-default-manu_default.jpg" alt="Shure Incorporated" vspace="0" border="0" />
 							
 						</a>
 					</li>

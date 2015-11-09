@@ -12,18 +12,10 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'nocache_hash' => '1044563ac156c1f0d3-13914997',
   'cache_lifetime' => 31536000,
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_563ccd33ed3193_77152937',
-  'variables' => 
-  array (
-    'homeslider' => 0,
-    'homeslider_slides' => 0,
-    'slide' => 0,
-    'module_dir' => 0,
-    'link' => 0,
-  ),
+  'unifunc' => 'content_563fc1ae67bb23_42578219',
   'has_nocache_code' => false,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_563ccd33ed3193_77152937')) {function content_563ccd33ed3193_77152937($_smarty_tpl) {?><div class="box slideshow">
+<?php if ($_valid && !is_callable('content_563fc1ae67bb23_42578219')) {function content_563fc1ae67bb23_42578219($_smarty_tpl) {?><div class="box slideshow">
 	
 <!-- Module HomeSlider -->
 <script type="text/javascript">

@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2015-11-05 11:43:25
+<?php /* Smarty version Smarty-3.1.14, created on 2015-11-08 21:22:41
          compiled from "C:\wamp\www\prestashop\admin6391\themes\default\template\controllers\categories\helpers\form\form.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:30017563b6b0d1a67d1-49009333%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,25 +7,25 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '7a7245bdd1a032292b3f3c19d3f812bdc0a21f3f' => 
     array (
       0 => 'C:\\wamp\\www\\prestashop\\admin6391\\themes\\default\\template\\controllers\\categories\\helpers\\form\\form.tpl',
-      1 => 1381159710,
+      1 => 1446822734,
       2 => 'file',
     ),
     'e942672dc774a1e404681d27bc399d9cde52051a' => 
     array (
       0 => 'C:\\wamp\\www\\prestashop\\admin6391\\themes\\default\\template\\helpers\\form\\form.tpl',
-      1 => 1381159710,
+      1 => 1446822738,
       2 => 'file',
     ),
     'e02fc582e02691b78d624b9d0c5a87e583b36e48' => 
     array (
       0 => 'C:\\wamp\\www\\prestashop\\admin6391\\themes\\default\\template\\helpers\\form\\form_group.tpl',
-      1 => 1381159710,
+      1 => 1446822738,
       2 => 'file',
     ),
     '4ff1062dd77dadb492b6a4fb28bd17248a002e19' => 
     array (
       0 => 'C:\\wamp\\www\\prestashop\\admin6391\\themes\\default\\template\\helpers\\form\\form_category.tpl',
-      1 => 1381159710,
+      1 => 1446822738,
       2 => 'file',
     ),
   ),
@@ -33,6 +33,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_563b6b10ddf9c7_86351067',
   'variables' => 
   array (
     'show_toolbar' => 0,
@@ -79,8 +81,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'allowEmployeeFormLang' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_563b6b10ddf9c7_86351067',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_563b6b10ddf9c7_86351067')) {function content_563b6b10ddf9c7_86351067($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_escape')) include 'C:\\wamp\\www\\prestashop\\tools\\smarty\\plugins\\modifier.escape.php';
 ?>
@@ -602,7 +602,7 @@ $_smarty_tpl->tpl_vars['v']->_loop = true;
 									<?php /*  Call merged included template "helpers/form/form_group.tpl" */
 $_tpl_stack[] = $_smarty_tpl;
  $_smarty_tpl = $_smarty_tpl->setupInlineSubTemplate('helpers/form/form_group.tpl', $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, null, null, array(), 0, '30017563b6b0d1a67d1-49009333');
-content_563b6b0f698451_49140189($_smarty_tpl);
+content_563fe754b8ac19_50704933($_smarty_tpl);
 $_smarty_tpl = array_pop($_tpl_stack); /*  End of included template "helpers/form/form_group.tpl" */?>
 								<?php }elseif($_smarty_tpl->tpl_vars['input']->value['type']=='shop'){?>
 									<?php echo $_smarty_tpl->tpl_vars['input']->value['html'];?>
@@ -611,7 +611,7 @@ $_smarty_tpl = array_pop($_tpl_stack); /*  End of included template "helpers/for
 									<?php /*  Call merged included template "helpers/form/form_category.tpl" */
 $_tpl_stack[] = $_smarty_tpl;
  $_smarty_tpl = $_smarty_tpl->setupInlineSubTemplate('helpers/form/form_category.tpl', $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, null, null, array('categories'=>$_smarty_tpl->tpl_vars['input']->value['values']), 0, '30017563b6b0d1a67d1-49009333');
-content_563b6b0f8fac02_40426342($_smarty_tpl);
+content_563fe754db5f02_71999539($_smarty_tpl);
 $_smarty_tpl = array_pop($_tpl_stack); /*  End of included template "helpers/form/form_category.tpl" */?>
 								<?php }elseif($_smarty_tpl->tpl_vars['input']->value['type']=='categories_select'){?>
 									<?php echo $_smarty_tpl->tpl_vars['input']->value['category_tree'];?>
@@ -1054,7 +1054,7 @@ $_smarty_tpl->tpl_vars['v']->_loop = true;
 									<?php /*  Call merged included template "helpers/form/form_group.tpl" */
 $_tpl_stack[] = $_smarty_tpl;
  $_smarty_tpl = $_smarty_tpl->setupInlineSubTemplate('helpers/form/form_group.tpl', $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, null, null, array(), 0, '30017563b6b0d1a67d1-49009333');
-content_563b6b0f698451_49140189($_smarty_tpl);
+content_563fe754b8ac19_50704933($_smarty_tpl);
 $_smarty_tpl = array_pop($_tpl_stack); /*  End of included template "helpers/form/form_group.tpl" */?>
 								<?php }elseif($_smarty_tpl->tpl_vars['input']->value['type']=='shop'){?>
 									<?php echo $_smarty_tpl->tpl_vars['input']->value['html'];?>
@@ -1063,7 +1063,7 @@ $_smarty_tpl = array_pop($_tpl_stack); /*  End of included template "helpers/for
 									<?php /*  Call merged included template "helpers/form/form_category.tpl" */
 $_tpl_stack[] = $_smarty_tpl;
  $_smarty_tpl = $_smarty_tpl->setupInlineSubTemplate('helpers/form/form_category.tpl', $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, null, null, array('categories'=>$_smarty_tpl->tpl_vars['input']->value['values']), 0, '30017563b6b0d1a67d1-49009333');
-content_563b6b0f8fac02_40426342($_smarty_tpl);
+content_563fe754db5f02_71999539($_smarty_tpl);
 $_smarty_tpl = array_pop($_tpl_stack); /*  End of included template "helpers/form/form_category.tpl" */?>
 								<?php }elseif($_smarty_tpl->tpl_vars['input']->value['type']=='categories_select'){?>
 									<?php echo $_smarty_tpl->tpl_vars['input']->value['category_tree'];?>
@@ -1310,9 +1310,9 @@ $_smarty_tpl->tpl_vars['language']->_loop = true;
 	
 	</script>
 <?php }?>
-<?php }} ?><?php /* Smarty version Smarty-3.1.14, created on 2015-11-05 11:43:27
+<?php }} ?><?php /* Smarty version Smarty-3.1.14, created on 2015-11-08 21:22:44
          compiled from "C:\wamp\www\prestashop\admin6391\themes\default\template\helpers\form\form_group.tpl" */ ?>
-<?php if ($_valid && !is_callable('content_563b6b0f698451_49140189')) {function content_563b6b0f698451_49140189($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_563fe754b8ac19_50704933')) {function content_563fe754b8ac19_50704933($_smarty_tpl) {?>
 
 <?php if (count($_smarty_tpl->tpl_vars['groups']->value)&&isset($_smarty_tpl->tpl_vars['groups']->value)){?>
 <table cellspacing="0" cellpadding="0" class="table" style="width:28em;">
@@ -1350,9 +1350,9 @@ $_smarty_tpl->tpl_vars['group']->_loop = true;
 <?php }else{ ?>
 <p><?php echo smartyTranslate(array('s'=>'No group created'),$_smarty_tpl);?>
 </p>
-<?php }?><?php }} ?><?php /* Smarty version Smarty-3.1.14, created on 2015-11-05 11:43:27
+<?php }?><?php }} ?><?php /* Smarty version Smarty-3.1.14, created on 2015-11-08 21:22:44
          compiled from "C:\wamp\www\prestashop\admin6391\themes\default\template\helpers\form\form_category.tpl" */ ?>
-<?php if ($_valid && !is_callable('content_563b6b0f8fac02_40426342')) {function content_563b6b0f8fac02_40426342($_smarty_tpl) {?><?php if (!is_callable('smarty_function_implode')) include 'C:\\wamp\\www\\prestashop\\tools\\smarty\\plugins\\function.implode.php';
+<?php if ($_valid && !is_callable('content_563fe754db5f02_71999539')) {function content_563fe754db5f02_71999539($_smarty_tpl) {?><?php if (!is_callable('smarty_function_implode')) include 'C:\\wamp\\www\\prestashop\\tools\\smarty\\plugins\\function.implode.php';
 ?>
 <?php if (count($_smarty_tpl->tpl_vars['categories']->value)&&isset($_smarty_tpl->tpl_vars['categories']->value)){?>
 	<script type="text/javascript">

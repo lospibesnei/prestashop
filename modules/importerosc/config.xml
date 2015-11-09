@@ -3,7 +3,7 @@
             <name>importerosc</name>
             <displayName><![CDATA[Importer osCommerce]]></displayName>
             <version><![CDATA[1.0]]></version>
-            <description><![CDATA[This module allows you to import from osCommerce to Prestashop.]]></description>
+            <description><![CDATA[Este m&oacute;dulo permite importar su tienda OsCommerce en PrestaShop]]></description>
             <author><![CDATA[PrestaShop]]></author>
             <tab><![CDATA[migration_tools]]></tab>
             <is_configurable>0</is_configurable>

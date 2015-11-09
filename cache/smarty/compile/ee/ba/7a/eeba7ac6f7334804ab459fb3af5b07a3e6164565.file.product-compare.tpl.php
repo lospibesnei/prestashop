@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2015-11-05 01:16:35
+<?php /* Smarty version Smarty-3.1.14, created on 2015-11-08 16:46:19
          compiled from "C:\wamp\www\prestashop\themes\leoshoe\product-compare.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:17331563ad8230b0916-51341488%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'eeba7ac6f7334804ab459fb3af5b07a3e6164565' => 
     array (
       0 => 'C:\\wamp\\www\\prestashop\\themes\\leoshoe\\product-compare.tpl',
-      1 => 1446690710,
+      1 => 1446822915,
       2 => 'file',
     ),
   ),
@@ -15,14 +15,14 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_563ad82319d102_57196048',
   'variables' => 
   array (
     'comparator_max_item' => 0,
     'link' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_563ad82319d102_57196048',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_563ad82319d102_57196048')) {function content_563ad82319d102_57196048($_smarty_tpl) {?>
 

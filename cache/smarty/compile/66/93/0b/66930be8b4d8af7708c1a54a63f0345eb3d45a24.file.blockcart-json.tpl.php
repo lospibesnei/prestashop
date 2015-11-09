@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2015-11-05 00:52:13
+<?php /* Smarty version Smarty-3.1.14, created on 2015-11-08 17:53:09
          compiled from "C:\wamp\www\prestashop\themes\leoshoe\modules\blockcart\blockcart-json.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:12401563ad26d1a32e8-12748267%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '66930be8b4d8af7708c1a54a63f0345eb3d45a24' => 
     array (
       0 => 'C:\\wamp\\www\\prestashop\\themes\\leoshoe\\modules\\blockcart\\blockcart-json.tpl',
-      1 => 1446690708,
+      1 => 1446822913,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_563ad26f42fb95_53303648',
   'variables' => 
   array (
     'products' => 0,
@@ -43,8 +45,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'error' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_563ad26f42fb95_53303648',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_563ad26f42fb95_53303648')) {function content_563ad26f42fb95_53303648($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_replace')) include 'C:\\wamp\\www\\prestashop\\tools\\smarty\\plugins\\modifier.replace.php';
 ?>

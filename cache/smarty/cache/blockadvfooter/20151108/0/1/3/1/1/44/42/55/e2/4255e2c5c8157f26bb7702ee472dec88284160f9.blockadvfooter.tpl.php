@@ -12,10 +12,10 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'nocache_hash' => '3701563ac15c391050-39920264',
   'cache_lifetime' => 31536000,
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_563fa1638807c9_53232719',
+  'unifunc' => 'content_563fc150b5ccd1_71856871',
   'has_nocache_code' => false,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_563fa1638807c9_53232719')) {function content_563fa1638807c9_53232719($_smarty_tpl) {?><div style="clear:both"></div>
+<?php if ($_valid && !is_callable('content_563fc150b5ccd1_71856871')) {function content_563fc150b5ccd1_71856871($_smarty_tpl) {?><div style="clear:both"></div>
 <div id="advandfooter" class="adv-footer-wrap">
 			<div id="lofadva-pos-1" class="blocks" style="width:100%">
 			<div class="blocks-wrap">
@@ -152,7 +152,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 			<ul>
 									
 <li >
-	<a href="http://localhost/prestashop/index.php?id_category=7&amp;controller=category&amp;id_lang=1" 		title="">Hombre</a>
+	<a href="http://localhost/prestashop/index.php?id_category=7&amp;controller=category&amp;id_lang=1" class="selected"		title="">Hombre</a>
 	</li>
 
 												
@@ -209,7 +209,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 			</p>
 								<ul id="first-languages" class="dropdown-menu">
 														<li>
-																								<a href="http://localhost/prestashop/index.php?id_lang=2" title="Español AR ( Spanish)">
+																								<a href="http://localhost/prestashop/index.php?id_product=8&amp;controller=product&amp;id_lang=2" title="Español AR ( Spanish)">
 
 																		<img src="http://localhost/prestashop/img/l/2.jpg" alt="ag" width="16" height="11" />&nbsp;<span>Español AR ( Spanish)</span>
 						</a>

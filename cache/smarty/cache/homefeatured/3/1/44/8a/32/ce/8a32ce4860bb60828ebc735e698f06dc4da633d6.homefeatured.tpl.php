@@ -12,27 +12,10 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'nocache_hash' => '19840563ac158a345d7-44361031',
   'cache_lifetime' => 31536000,
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_563ccd3704cb87_19705264',
-  'variables' => 
-  array (
-    'products' => 0,
-    'nbLi' => 0,
-    'nbItemsPerLine' => 0,
-    'nbLines' => 0,
-    'liHeight' => 0,
-    'totModulo' => 0,
-    'product' => 0,
-    'link' => 0,
-    'homeSize' => 0,
-    'restricted_country_mode' => 0,
-    'PS_CATALOG_MODE' => 0,
-    'priceDisplay' => 0,
-    'add_prod_display' => 0,
-    'static_token' => 0,
-  ),
+  'unifunc' => 'content_563ff93947fa65_11921710',
   'has_nocache_code' => false,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_563ccd3704cb87_19705264')) {function content_563ccd3704cb87_19705264($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_563ff93947fa65_11921710')) {function content_563ff93947fa65_11921710($_smarty_tpl) {?>
 <!-- MODULE Home Featured Products -->
 <div id="featured-products_block_center" class="block products_block clearfix">
 	<p class="title_block">Productos destacados</p>
@@ -44,7 +27,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 							 
 									<div class="row">
 				
-				<div class="p-item col-md-3 ajax_block_product first_item   last_line">
+				<div class="p-item col-md-3 ajax_block_product first_item   ">
 					<div class="box">
 						<div class="product-container">							
 							<div class="center_block">
@@ -55,7 +38,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 									</a>
 								</h3>
 																<p class="price_container content_price"><span class="price">
-									128,52 ARS								</span></p>
+									237,50 ARS								</span></p>
 														
 							</div>
 							
@@ -74,25 +57,117 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 							
 							 
 				
-				<div class="p-item col-md-3 ajax_block_product item  last_line">
+				<div class="p-item col-md-3 ajax_block_product item  ">
 					<div class="box">
 						<div class="product-container">							
 							<div class="center_block">
-								<a href="http://localhost/prestashop/index.php?id_product=2&amp;controller=product&amp;id_lang=1" title="iPod shuffle" class="product_image"><img src="http://localhost/prestashop/img/p/2/3/23-home_default.jpg" height="124" width="124" alt="iPod shuffle" /><span class="new">Nuevo</span></a>
+								<a href="http://localhost/prestashop/index.php?id_product=8&amp;controller=product&amp;id_lang=1" title="CAMISETA EXCIPIOSPORT CRUZ" class="product_image"><img src="http://localhost/prestashop/img/p/3/3/33-home_default.jpg" height="124" width="124" alt="CAMISETA EXCIPIOSPORT CRUZ" /><span class="new">Nuevo</span></a>
 								<h3 class="s_title_block">
-									<a href="http://localhost/prestashop/index.php?id_product=2&amp;controller=product&amp;id_lang=1" title="iPod shuffle">
-										iPod shuffle
+									<a href="http://localhost/prestashop/index.php?id_product=8&amp;controller=product&amp;id_lang=1" title="CAMISETA EXCIPIOSPORT CRUZ">
+										CAMISETA EXCIPIOSPORT CRUZ
 									</a>
 								</h3>
 																<p class="price_container content_price"><span class="price">
-									79,92 ARS								</span></p>
+									250,00 ARS								</span></p>
 														
 							</div>
 							
 							<div class="right_block">
-								<div class="product_desc"><a href="http://localhost/prestashop/index.php?id_product=2&amp;controller=product&amp;id_lang=1" title="Más"> iPod shuffle, el walkman más portátil del mundo, ahora en...</a></div>
-																										<a class="btn exclusive ajax_add_to_cart_button" rel="ajax_id_product_2" href="http://localhost/prestashop/index.php?controller=cart?qty=1&amp;id_product=2&amp;token=db1692b076bf0bbc8592348c162577e6&amp;add" title="Añadir al carrito">Añadir al carrito</a>
-																									<a class="btn lnk_view lnk_more" href="http://localhost/prestashop/index.php?id_product=2&amp;controller=product&amp;id_lang=1" title="Ver">Ver</a>								
+								<div class="product_desc"><a href="http://localhost/prestashop/index.php?id_product=8&amp;controller=product&amp;id_lang=1" title="Más"> Excipio Cruz es un modelo de mangas cortas y cuello redondo,...</a></div>
+																										<a class="btn exclusive ajax_add_to_cart_button" rel="ajax_id_product_8" href="http://localhost/prestashop/index.php?controller=cart?qty=1&amp;id_product=8&amp;token=db1692b076bf0bbc8592348c162577e6&amp;add" title="Añadir al carrito">Añadir al carrito</a>
+																									<a class="btn lnk_view lnk_more" href="http://localhost/prestashop/index.php?id_product=8&amp;controller=product&amp;id_lang=1" title="Ver">Ver</a>								
+							</div>
+
+						</div>
+					</div>
+				</div>
+
+				<!-- close row -->
+				
+							
+							 
+				
+				<div class="p-item col-md-3 ajax_block_product item  ">
+					<div class="box">
+						<div class="product-container">							
+							<div class="center_block">
+								<a href="http://localhost/prestashop/index.php?id_product=9&amp;controller=product&amp;id_lang=1" title="CAMISETA EXCIPIOSPORT CUADROS" class="product_image"><img src="http://localhost/prestashop/img/p/4/5/45-home_default.jpg" height="124" width="124" alt="CAMISETA EXCIPIOSPORT CUADROS" /><span class="new">Nuevo</span></a>
+								<h3 class="s_title_block">
+									<a href="http://localhost/prestashop/index.php?id_product=9&amp;controller=product&amp;id_lang=1" title="CAMISETA EXCIPIOSPORT CUADROS">
+										CAMISETA EXCIPIOSPORT CUADROS
+									</a>
+								</h3>
+																<p class="price_container content_price"><span class="price">
+									250,00 ARS								</span></p>
+														
+							</div>
+							
+							<div class="right_block">
+								<div class="product_desc"><a href="http://localhost/prestashop/index.php?id_product=9&amp;controller=product&amp;id_lang=1" title="Más"> Con la Camiseta Excipio Cuadros vas a armar de la mejor...</a></div>
+																										<a class="btn exclusive ajax_add_to_cart_button" rel="ajax_id_product_9" href="http://localhost/prestashop/index.php?controller=cart?qty=1&amp;id_product=9&amp;token=db1692b076bf0bbc8592348c162577e6&amp;add" title="Añadir al carrito">Añadir al carrito</a>
+																									<a class="btn lnk_view lnk_more" href="http://localhost/prestashop/index.php?id_product=9&amp;controller=product&amp;id_lang=1" title="Ver">Ver</a>								
+							</div>
+
+						</div>
+					</div>
+				</div>
+
+				<!-- close row -->
+				
+							
+							 
+				
+				<div class="p-item col-md-3 ajax_block_product item last_item_of_line ">
+					<div class="box">
+						<div class="product-container">							
+							<div class="center_block">
+								<a href="http://localhost/prestashop/index.php?id_product=10&amp;controller=product&amp;id_lang=1" title="CAMISETA EXCIPIOSPORT SUDÁFRICA" class="product_image"><img src="http://localhost/prestashop/img/p/5/1/51-home_default.jpg" height="124" width="124" alt="CAMISETA EXCIPIOSPORT SUDÁFRICA" /><span class="new">Nuevo</span></a>
+								<h3 class="s_title_block">
+									<a href="http://localhost/prestashop/index.php?id_product=10&amp;controller=product&amp;id_lang=1" title="CAMISETA EXCIPIOSPORT SUD&Aacute;FRICA">
+										CAMISETA EXCIPIOSPORT SUD&Aacute;FRICA
+									</a>
+								</h3>
+																<p class="price_container content_price"><span class="price">
+									250,00 ARS								</span></p>
+														
+							</div>
+							
+							<div class="right_block">
+								<div class="product_desc"><a href="http://localhost/prestashop/index.php?id_product=10&amp;controller=product&amp;id_lang=1" title="Más"> Dale un estilo original al uniforme de tu equipo de amigos...</a></div>
+																										<a class="btn exclusive ajax_add_to_cart_button" rel="ajax_id_product_10" href="http://localhost/prestashop/index.php?controller=cart?qty=1&amp;id_product=10&amp;token=db1692b076bf0bbc8592348c162577e6&amp;add" title="Añadir al carrito">Añadir al carrito</a>
+																									<a class="btn lnk_view lnk_more" href="http://localhost/prestashop/index.php?id_product=10&amp;controller=product&amp;id_lang=1" title="Ver">Ver</a>								
+							</div>
+
+						</div>
+					</div>
+				</div>
+
+				<!-- close row -->
+									</div>
+				
+							
+							 
+									<div class="row">
+				
+				<div class="p-item col-md-3 ajax_block_product item   last_line">
+					<div class="box">
+						<div class="product-container">							
+							<div class="center_block">
+								<a href="http://localhost/prestashop/index.php?id_product=11&amp;controller=product&amp;id_lang=1" title="CAMISETA UMBRO ANGELINA" class="product_image"><img src="http://localhost/prestashop/img/p/5/5/55-home_default.jpg" height="124" width="124" alt="CAMISETA UMBRO ANGELINA" /><span class="new">Nuevo</span></a>
+								<h3 class="s_title_block">
+									<a href="http://localhost/prestashop/index.php?id_product=11&amp;controller=product&amp;id_lang=1" title="CAMISETA UMBRO ANGELINA">
+										CAMISETA UMBRO ANGELINA
+									</a>
+								</h3>
+																<p class="price_container content_price"><span class="price">
+									250,00 ARS								</span></p>
+														
+							</div>
+							
+							<div class="right_block">
+								<div class="product_desc"><a href="http://localhost/prestashop/index.php?id_product=11&amp;controller=product&amp;id_lang=1" title="Más">  Llevate la Camiseta Umbro Angelina y armá el uniforme para...</a></div>
+																										<a class="btn exclusive ajax_add_to_cart_button" rel="ajax_id_product_11" href="http://localhost/prestashop/index.php?controller=cart?qty=1&amp;id_product=11&amp;token=db1692b076bf0bbc8592348c162577e6&amp;add" title="Añadir al carrito">Añadir al carrito</a>
+																									<a class="btn lnk_view lnk_more" href="http://localhost/prestashop/index.php?id_product=11&amp;controller=product&amp;id_lang=1" title="Ver">Ver</a>								
 							</div>
 
 						</div>
@@ -108,21 +183,51 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 					<div class="box">
 						<div class="product-container">							
 							<div class="center_block">
-								<a href="http://localhost/prestashop/index.php?id_product=4&amp;controller=product&amp;id_lang=1" title="MacBook" class="product_image"><img src="http://localhost/prestashop/img/p/6/6-home_default.jpg" height="124" width="124" alt="MacBook" /><span class="new">Nuevo</span></a>
+								<a href="http://localhost/prestashop/index.php?id_product=12&amp;controller=product&amp;id_lang=1" title="CAMISETA UMBRO CROSS TW" class="product_image"><img src="http://localhost/prestashop/img/p/5/9/59-home_default.jpg" height="124" width="124" alt="CAMISETA UMBRO CROSS TW" /><span class="new">Nuevo</span></a>
 								<h3 class="s_title_block">
-									<a href="http://localhost/prestashop/index.php?id_product=4&amp;controller=product&amp;id_lang=1" title="MacBook">
-										MacBook
+									<a href="http://localhost/prestashop/index.php?id_product=12&amp;controller=product&amp;id_lang=1" title="CAMISETA UMBRO CROSS TW">
+										CAMISETA UMBRO CROSS TW
 									</a>
 								</h3>
 																<p class="price_container content_price"><span class="price">
-									1 416,39 ARS								</span></p>
+									250,00 ARS								</span></p>
 														
 							</div>
 							
 							<div class="right_block">
-								<div class="product_desc"><a href="http://localhost/prestashop/index.php?id_product=4&amp;controller=product&amp;id_lang=1" title="Más"> MacBook te ofrece una gran libertad de movimientos gracias a...</a></div>
-																										<a class="btn exclusive ajax_add_to_cart_button" rel="ajax_id_product_4" href="http://localhost/prestashop/index.php?controller=cart?qty=1&amp;id_product=4&amp;token=db1692b076bf0bbc8592348c162577e6&amp;add" title="Añadir al carrito">Añadir al carrito</a>
-																									<a class="btn lnk_view lnk_more" href="http://localhost/prestashop/index.php?id_product=4&amp;controller=product&amp;id_lang=1" title="Ver">Ver</a>								
+								<div class="product_desc"><a href="http://localhost/prestashop/index.php?id_product=12&amp;controller=product&amp;id_lang=1" title="Más">  Si tu equipo de amigos está buscando un uniforme original y...</a></div>
+																										<a class="btn exclusive ajax_add_to_cart_button" rel="ajax_id_product_12" href="http://localhost/prestashop/index.php?controller=cart?qty=1&amp;id_product=12&amp;token=db1692b076bf0bbc8592348c162577e6&amp;add" title="Añadir al carrito">Añadir al carrito</a>
+																									<a class="btn lnk_view lnk_more" href="http://localhost/prestashop/index.php?id_product=12&amp;controller=product&amp;id_lang=1" title="Ver">Ver</a>								
+							</div>
+
+						</div>
+					</div>
+				</div>
+
+				<!-- close row -->
+				
+							
+							 
+				
+				<div class="p-item col-md-3 ajax_block_product item  last_line">
+					<div class="box">
+						<div class="product-container">							
+							<div class="center_block">
+								<a href="http://localhost/prestashop/index.php?id_product=13&amp;controller=product&amp;id_lang=1" title="CAMISETA UMBRO FAST" class="product_image"><img src="http://localhost/prestashop/img/p/6/8/68-home_default.jpg" height="124" width="124" alt="CAMISETA UMBRO FAST" /><span class="new">Nuevo</span></a>
+								<h3 class="s_title_block">
+									<a href="http://localhost/prestashop/index.php?id_product=13&amp;controller=product&amp;id_lang=1" title="CAMISETA UMBRO FAST">
+										CAMISETA UMBRO FAST
+									</a>
+								</h3>
+																<p class="price_container content_price"><span class="price">
+									250,00 ARS								</span></p>
+														
+							</div>
+							
+							<div class="right_block">
+								<div class="product_desc"><a href="http://localhost/prestashop/index.php?id_product=13&amp;controller=product&amp;id_lang=1" title="Más">  Si vas a jugar al fútbol con amigos y quieren tener su...</a></div>
+																										<a class="btn exclusive ajax_add_to_cart_button" rel="ajax_id_product_13" href="http://localhost/prestashop/index.php?controller=cart?qty=1&amp;id_product=13&amp;token=db1692b076bf0bbc8592348c162577e6&amp;add" title="Añadir al carrito">Añadir al carrito</a>
+																									<a class="btn lnk_view lnk_more" href="http://localhost/prestashop/index.php?id_product=13&amp;controller=product&amp;id_lang=1" title="Ver">Ver</a>								
 							</div>
 
 						</div>
@@ -138,21 +243,21 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 					<div class="box">
 						<div class="product-container">							
 							<div class="center_block">
-								<a href="http://localhost/prestashop/index.php?id_product=5&amp;controller=product&amp;id_lang=1" title="iPod touch" class="product_image"><img src="http://localhost/prestashop/img/p/7/7-home_default.jpg" height="124" width="124" alt="iPod touch" /><span class="new">Nuevo</span></a>
+								<a href="http://localhost/prestashop/index.php?id_product=14&amp;controller=product&amp;id_lang=1" title="CAMISETA UMBRO PRO TW" class="product_image"><img src="http://localhost/prestashop/img/p/7/4/74-home_default.jpg" height="124" width="124" alt="CAMISETA UMBRO PRO TW" /><span class="new">Nuevo</span></a>
 								<h3 class="s_title_block">
-									<a href="http://localhost/prestashop/index.php?id_product=5&amp;controller=product&amp;id_lang=1" title="iPod touch">
-										iPod touch
+									<a href="http://localhost/prestashop/index.php?id_product=14&amp;controller=product&amp;id_lang=1" title="CAMISETA UMBRO PRO TW">
+										CAMISETA UMBRO PRO TW
 									</a>
 								</h3>
 																<p class="price_container content_price"><span class="price">
-									292,38 ARS								</span></p>
+									0,00 ARS								</span></p>
 														
 							</div>
 							
 							<div class="right_block">
-								<div class="product_desc"><a href="http://localhost/prestashop/index.php?id_product=5&amp;controller=product&amp;id_lang=1" title="Más"> Interfaz multi-touch revolucionaria  Pantalla panorámica...</a></div>
-																										<span class="btn exclusive">Out of stock</span>
-																									<a class="btn lnk_view lnk_more" href="http://localhost/prestashop/index.php?id_product=5&amp;controller=product&amp;id_lang=1" title="Ver">Ver</a>								
+								<div class="product_desc"><a href="http://localhost/prestashop/index.php?id_product=14&amp;controller=product&amp;id_lang=1" title="Más">  Para que tu equipo de amigos vista un uniforme original y de...</a></div>
+																										<a class="btn exclusive ajax_add_to_cart_button" rel="ajax_id_product_14" href="http://localhost/prestashop/index.php?controller=cart?qty=1&amp;id_product=14&amp;token=db1692b076bf0bbc8592348c162577e6&amp;add" title="Añadir al carrito">Añadir al carrito</a>
+																									<a class="btn lnk_view lnk_more" href="http://localhost/prestashop/index.php?id_product=14&amp;controller=product&amp;id_lang=1" title="Ver">Ver</a>								
 							</div>
 
 						</div>

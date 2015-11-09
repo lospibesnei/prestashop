@@ -17,11 +17,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '19122563ac1578fb851-64818292',
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_563fa1609351d8_26816688',
+  'unifunc' => 'content_563fc1af799f20_06169405',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_563fa1609351d8_26816688')) {function content_563fa1609351d8_26816688($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_563fc1af799f20_06169405')) {function content_563fc1af799f20_06169405($_smarty_tpl) {?>
 <!-- MODULE Block specials -->
 <div id="leoprodcarousel" class="block products_block exclusive blockleoprodcarousel">
 	<h3 class="title_block">Latest Products</h3>
@@ -44,7 +44,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 								<a href="http://localhost/prestashop/index.php?id_product=1&controller=product&id_lang=1" title="KAPPA GEN&Eacute;RICA">KAPPA GEN&Eacute;RICA</a>
 							</h3>
 							
-						 	<p class="content_price"><span class="price">128,52 ARS</span></p>  						</div>
+						 	<p class="content_price"><span class="price">214,31 ARS</span></p>  						</div>
   						<div class="right_block">
 							<p class="product_desc">
 								<a href="http://localhost/prestashop/index.php?id_product=1&controller=product&id_lang=1" title="More">
@@ -139,6 +139,33 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 																							<span class="btn button exclusive">Out of stock</span>
 								 
 														<a class="lnk_view button" href="http://localhost/prestashop/index.php?id_product=5&controller=product&id_lang=1" title="View">View</a>
+  						</div>
+					</div>
+					 
+					</div>
+				</div>
+				
+									
+												<div class="p-item col-md-4 product_block ajax_block_product last_item alternate_item clearfix">
+					<div class="box">
+						
+					<div class="product-container">
+						<div class="center_block">
+							<a href="http://localhost/prestashop/index.php?id_product=8&controller=product&id_lang=1" title="CAMISETA EXCIPIOSPORT CRUZ" class="product_image"><img src="http://localhost/prestashop/img/p/3/3/33-home_default.jpg" alt="CAMISETA EXCIPIOSPORT CRUZ" /><span class="new">New</span></a>
+							<h3 class="s_title_block">
+								<a href="http://localhost/prestashop/index.php?id_product=8&controller=product&id_lang=1" title="CAMISETA EXCIPIOSPORT CRUZ">CAMISETA EXCIPIOSPORT CRUZ</a>
+							</h3>
+							
+						 	<p class="content_price"><span class="price">250,00 ARS</span></p>  						</div>
+  						<div class="right_block">
+							<p class="product_desc">
+								<a href="http://localhost/prestashop/index.php?id_product=8&controller=product&id_lang=1" title="More">
+									 Excipio Cruz es un modelo de mangas cortas y cuello redondo,...
+								</a>
+							</p>
+																							<a class="btn button exclusive ajax_add_to_cart_button" rel="ajax_id_product_8" href="http://localhost/prestashop/index.php?controller=cart?qty=1&amp;id_product=8&amp;token=db1692b076bf0bbc8592348c162577e6&amp;add" title="Add to cart">Add to cart</a>
+								 
+														<a class="lnk_view button" href="http://localhost/prestashop/index.php?id_product=8&controller=product&id_lang=1" title="View">View</a>
   						</div>
 					</div>
 					 

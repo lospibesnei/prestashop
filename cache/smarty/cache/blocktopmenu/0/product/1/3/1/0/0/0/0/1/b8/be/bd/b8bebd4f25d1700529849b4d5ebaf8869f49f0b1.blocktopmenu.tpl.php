@@ -12,14 +12,16 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'nocache_hash' => '12368563ac150e95499-69020096',
   'cache_lifetime' => 31536000,
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_563fa16bc18e82_57882287',
+  'unifunc' => 'content_563ff9837febc9_16826548',
   'has_nocache_code' => false,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_563fa16bc18e82_57882287')) {function content_563fa16bc18e82_57882287($_smarty_tpl) {?>	
+<?php if ($_valid && !is_callable('content_563ff9837febc9_16826548')) {function content_563ff9837febc9_16826548($_smarty_tpl) {?>	
 	<!-- Menu -->
 	<div class="sf-contener clearfix">
 		<ul class="sf-menu clearfix">
-			<li ><a href="http://localhost/prestashop/index.php">Inicio</a><ul><li ><a href="http://localhost/prestashop/index.php?id_category=3&amp;controller=category&amp;id_lang=1">Camisetas</a><ul><li ><a href="http://localhost/prestashop/index.php?id_category=7&amp;controller=category&amp;id_lang=1">Hombre</a></li><li ><a href="http://localhost/prestashop/index.php?id_category=8&amp;controller=category&amp;id_lang=1">Mujer</a></li></ul></li><li ><a href="http://localhost/prestashop/index.php?id_category=6&amp;controller=category&amp;id_lang=1">Pantalones</a></li><li ><a href="http://localhost/prestashop/index.php?id_category=4&amp;controller=category&amp;id_lang=1">Accesorios</a></li><li ><a href="http://localhost/prestashop/index.php?id_category=5&amp;controller=category&amp;id_lang=1">Portátiles</a></li></ul></li><li ><a href="http://localhost/prestashop/index.php?id_category=3&amp;controller=category&amp;id_lang=1">Camisetas</a><ul><li ><a href="http://localhost/prestashop/index.php?id_category=7&amp;controller=category&amp;id_lang=1">Hombre</a></li><li ><a href="http://localhost/prestashop/index.php?id_category=8&amp;controller=category&amp;id_lang=1">Mujer</a></li></ul></li><li ><a href="http://localhost/prestashop/index.php?id_category=4&amp;controller=category&amp;id_lang=1">Accesorios</a></li>
+			<li><a href="http://localhost/prestashop/index.php?id_cms=1&amp;controller=cms&amp;id_lang=1">Entrega</a></li>
+<li><a href="http://localhost/prestashop/index.php?id_cms=4&amp;controller=cms&amp;id_lang=1">Sobre</a></li>
+<li ><a href="http://localhost/prestashop/index.php?id_category=13&amp;controller=category&amp;id_lang=1">camisetas</a><ul><li ><a href="http://localhost/prestashop/index.php?id_category=14&amp;controller=category&amp;id_lang=1">Hombre</a></li><li ><a href="http://localhost/prestashop/index.php?id_category=15&amp;controller=category&amp;id_lang=1">Mujer</a></li></ul></li>
 					</ul>
 	</div>
 	<div class="sf-right">&nbsp;</div>
